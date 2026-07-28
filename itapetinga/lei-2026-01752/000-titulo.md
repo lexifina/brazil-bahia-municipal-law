@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 1.752/2026 De 28 de julho de 2026 Institui o feriado municipal de Corpus Christi no âmbito do Município de Itapetinga-BA e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ITAPETINGA, ESTADO DA BAHIA, no ato de suas atribuições legais, consubstanciadas Art. 66, parágrafos 5º e 7º da Constituição Federal, Artigo 45, § 8º da Lei Orgânica do Município e inciso XXVI do Artigo 14 e parágrafo 9º do Artigo 130 do Regimento Interno da Câmara Municipal de Itapetinga, PROMULGA a seguinte Lei Municipal.

@@ -1,0 +1,215 @@
+{
+ "country": "BR-BA-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "itapetinga/lei-2026-01759",
+   "unit": "itapetinga",
+   "short": "Lei 1759/2026",
+   "title": "Lei nº 1.759, de 14 de agosto de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4780",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 10,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4780/lei_municipal_1.759-2026_-__rota_turistica_grastronomica_da_carne_e_leite_____promulgada.pdf",
+     "sha256": "560f28ff899d1bbb8331ae8927b7d950c9c8b6930736a413caf2290afd36114f"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01758",
+   "unit": "itapetinga",
+   "short": "Lei 1758/2026",
+   "title": "Lei nº 1.758, de 14 de agosto de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4779",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 12,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4779/lei_municipal_1.758-2026_-__conselho_municipal_de_habitacao____promulgada.pdf",
+     "sha256": "c6811118ed3200dc91ab7494ec999bf2b59406c0cf5e88e8c42adeae6fa4a2ab"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01757",
+   "unit": "itapetinga",
+   "short": "Lei 1757/2026",
+   "title": "Lei nº 1.757, de 14 de agosto de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4778",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 5,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4778/lei_municipal_1.757-2026_-__programa_castracao_legal___promulgada.pdf",
+     "sha256": "067e367a37399851af961e417e469b9a517cb696f8079882c6980a0a13b9bb34"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01756",
+   "unit": "itapetinga",
+   "short": "Lei 1756/2026",
+   "title": "Lei nº 1.756, de 14 de agosto de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4777",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 8,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4777/lei_municipal_1.756-2026_-__crimes_ciberneticos__promulgada.pdf",
+     "sha256": "b85beaa35a2c1ab7ac38942942f59afe283d293aa0287f70bf62d2cbfe852364"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01755",
+   "unit": "itapetinga",
+   "short": "Lei 1755/2026",
+   "title": "Lei nº 1.755, de 14 de agosto de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4776",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4776/lei_municipal_1.755-2026_-_altera_a_lei_204-67_-_iptu___promulgada.pdf",
+     "sha256": "bf3e50676bf2423f3e30840bb244ddd6ff278cf34e16d20c1e635ed6bf20b099"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01754",
+   "unit": "itapetinga",
+   "short": "Lei 1754/2026",
+   "title": "Lei nº 1.754, de 28 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4775",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 9,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4775/lei_municipal_1.754-2026_-_sensor_de_glicose__promulgada.pdf",
+     "sha256": "90de5b2c4230f235e1503f3aa2545cafd2be161658d34158e19cd662d472bf4a"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01753",
+   "unit": "itapetinga",
+   "short": "Lei 1753/2026",
+   "title": "Lei nº 1.753, de 28 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4774",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 4,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4774/lei_municipal_1.753-2026_-_15_minutos_de_leitura_nas_escolas_promulgada.pdf",
+     "sha256": "820e391afa11baeeb529eddcf74a8b3c99e2186cb79da7a7cd1c285955c8f7f0"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01752",
+   "unit": "itapetinga",
+   "short": "Lei 1752/2026",
+   "title": "Lei nº 1.752, de 28 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4773",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 6,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4773/lei_municipal_1.752-2026_-_feriado_municipal_de_corpus_christi__promulgada.pdf",
+     "sha256": "0376966161cb2146b72a67b8c70074219d861cbcdbe7196cb8935f2b3e4a9fdf"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01747",
+   "unit": "itapetinga",
+   "short": "Lei 1747/2026",
+   "title": "Lei nº 1.747, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4695",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 4,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4695/lei_municipal_1.747-2026_-_rua_jivalto_oliveira_-_antiga_tv_lorena_maria.pdf",
+     "sha256": "fdfa503a6ea2d3884bfb6593a5c6c0c75a9aa63ef90ec1d00c6cff280fad87dc"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01746",
+   "unit": "itapetinga",
+   "short": "Lei 1746/2026",
+   "title": "Lei nº 1.746, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4694",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 5,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4694/lei_municipal_1.746-2026_-_rua_solon_dias.pdf",
+     "sha256": "223131257d37796a52da0095ec6b160661e4f1d23cccf8d8cdc9b328fe3a0b06"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01745",
+   "unit": "itapetinga",
+   "short": "Lei 1745/2026",
+   "title": "Lei nº 1.745, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4693",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4693/lei_municipal_1.745-2026_-_julho_neon_-_saude_bucal.pdf",
+     "sha256": "93d2bd2a88da763f375ce209b123d6c459dfbe3102558ec6ea487c4d31cbb39c"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01744",
+   "unit": "itapetinga",
+   "short": "Lei 1744/2026",
+   "title": "Lei nº 1.744, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4692",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 5,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4692/lei_municipal_1.744-2026_-_dia_do_guarda_municipal.pdf",
+     "sha256": "9f0336460d3ea84647bcaadb6af83f6f93a8fd0f7028145d14479f8ed6548b08"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01743",
+   "unit": "itapetinga",
+   "short": "Lei 1743/2026",
+   "title": "Lei nº 1.743, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4691",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 8,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4691/lei_municipal_1.743-2026_-_agosto_lilas.pdf",
+     "sha256": "bdfd311aa06658ccb95c33e79bd99343373e83facb2eceac9128c89ff4f34fc9"
+    }
+   ]
+  },
+  {
+   "slug": "itapetinga/lei-2026-01742",
+   "unit": "itapetinga",
+   "short": "Lei 1742/2026",
+   "title": "Lei nº 1.742, de 6 de julho de 2026",
+   "url": "https://sapl.itapetinga.ba.leg.br/norma/4690",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 7,
+     "source_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2026/4690/lei_municipal_1.742-2026_-_semana_municipal_da_pessoa_idosa.pdf",
+     "sha256": "c2cb97d3ffc6061a16dfc6e319cdfa7efabffad6bf937c571d248a9912c192f3"
+    }
+   ]
+  }
+ ]
+}

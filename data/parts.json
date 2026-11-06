@@ -1,0 +1,24 @@
+{
+ "parts": {
+  "itapetinga--30-leis-001.json": {
+   "acts": [
+    "itapetinga/lei-2026-01742",
+    "itapetinga/lei-2026-01743",
+    "itapetinga/lei-2026-01744",
+    "itapetinga/lei-2026-01745",
+    "itapetinga/lei-2026-01746",
+    "itapetinga/lei-2026-01747",
+    "itapetinga/lei-2026-01752",
+    "itapetinga/lei-2026-01753",
+    "itapetinga/lei-2026-01754",
+    "itapetinga/lei-2026-01755",
+    "itapetinga/lei-2026-01756",
+    "itapetinga/lei-2026-01757",
+    "itapetinga/lei-2026-01758",
+    "itapetinga/lei-2026-01759"
+   ],
+   "sha256": "a822742827c5cd2dfa5a17ea7fd37aafb657fdf9c9bd68417318fa0195d3501a"
+  }
+ },
+ "schema": 1
+}

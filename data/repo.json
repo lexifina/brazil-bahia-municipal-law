@@ -1,0 +1,17 @@
+{
+ "country": "BR-BA-MUNICIPAL",
+ "name": "Bahia: municipal chambers",
+ "tz": "America/Bahia",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Bahia (SAPL)",
+ "units": [
+  {
+   "id": "itapetinga",
+   "folder": "itapetinga",
+   "name": "Itapetinga",
+   "code": "BR-BA-ITAPETINGA",
+   "official_code": "2916401",
+   "source": "sapl.itapetinga.ba.leg.br"
+  }
+ ]
+}
